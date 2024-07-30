@@ -1,0 +1,14 @@
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\bin\Debug\net6.0\9-)Random.exe
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\bin\Debug\net6.0\9-)Random.deps.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\bin\Debug\net6.0\9-)Random.runtimeconfig.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\bin\Debug\net6.0\9-)Random.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\bin\Debug\net6.0\9-)Random.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\obj\Debug\net6.0\9-)Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\obj\Debug\net6.0\9-)Random.AssemblyInfoInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\obj\Debug\net6.0\9-)Random.AssemblyInfo.cs
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\obj\Debug\net6.0\9-)Random.csproj.CoreCompileInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\obj\Debug\net6.0\9-)Random.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\obj\Debug\net6.0\refint\9-)Random.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\obj\Debug\net6.0\9-)Random.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\obj\Debug\net6.0\9-)Random.genruntimeconfig.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\9-)Random\obj\Debug\net6.0\ref\9-)Random.dll

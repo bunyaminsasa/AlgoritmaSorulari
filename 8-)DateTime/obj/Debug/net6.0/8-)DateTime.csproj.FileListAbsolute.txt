@@ -1,0 +1,14 @@
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\bin\Debug\net6.0\8-)DateTime.exe
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\bin\Debug\net6.0\8-)DateTime.deps.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\bin\Debug\net6.0\8-)DateTime.runtimeconfig.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\bin\Debug\net6.0\8-)DateTime.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\bin\Debug\net6.0\8-)DateTime.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\obj\Debug\net6.0\8-)DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\obj\Debug\net6.0\8-)DateTime.AssemblyInfoInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\obj\Debug\net6.0\8-)DateTime.AssemblyInfo.cs
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\obj\Debug\net6.0\8-)DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\obj\Debug\net6.0\8-)DateTime.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\obj\Debug\net6.0\refint\8-)DateTime.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\obj\Debug\net6.0\8-)DateTime.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\obj\Debug\net6.0\8-)DateTime.genruntimeconfig.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\8-)DateTime\obj\Debug\net6.0\ref\8-)DateTime.dll

@@ -1,0 +1,14 @@
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\bin\Debug\net6.0\6-)String.exe
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\bin\Debug\net6.0\6-)String.deps.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\bin\Debug\net6.0\6-)String.runtimeconfig.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\bin\Debug\net6.0\6-)String.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\bin\Debug\net6.0\6-)String.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\obj\Debug\net6.0\6-)String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\obj\Debug\net6.0\6-)String.AssemblyInfoInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\obj\Debug\net6.0\6-)String.AssemblyInfo.cs
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\obj\Debug\net6.0\6-)String.csproj.CoreCompileInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\obj\Debug\net6.0\6-)String.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\obj\Debug\net6.0\refint\6-)String.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\obj\Debug\net6.0\6-)String.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\obj\Debug\net6.0\6-)String.genruntimeconfig.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\6-)String\obj\Debug\net6.0\ref\6-)String.dll

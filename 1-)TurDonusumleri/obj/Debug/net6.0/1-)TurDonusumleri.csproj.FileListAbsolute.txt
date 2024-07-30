@@ -1,0 +1,14 @@
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\bin\Debug\net6.0\1-)TurDonusumleri.exe
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\bin\Debug\net6.0\1-)TurDonusumleri.deps.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\bin\Debug\net6.0\1-)TurDonusumleri.runtimeconfig.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\bin\Debug\net6.0\1-)TurDonusumleri.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\bin\Debug\net6.0\1-)TurDonusumleri.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\obj\Debug\net6.0\1-)TurDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\obj\Debug\net6.0\1-)TurDonusumleri.AssemblyInfoInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\obj\Debug\net6.0\1-)TurDonusumleri.AssemblyInfo.cs
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\obj\Debug\net6.0\1-)TurDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\obj\Debug\net6.0\1-)TurDonusumleri.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\obj\Debug\net6.0\refint\1-)TurDonusumleri.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\obj\Debug\net6.0\1-)TurDonusumleri.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\obj\Debug\net6.0\1-)TurDonusumleri.genruntimeconfig.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\1-)TurDonusumleri\obj\Debug\net6.0\ref\1-)TurDonusumleri.dll

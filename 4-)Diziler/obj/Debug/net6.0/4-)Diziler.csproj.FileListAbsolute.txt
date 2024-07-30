@@ -1,0 +1,14 @@
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\bin\Debug\net6.0\4-)Diziler.exe
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\bin\Debug\net6.0\4-)Diziler.deps.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\bin\Debug\net6.0\4-)Diziler.runtimeconfig.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\bin\Debug\net6.0\4-)Diziler.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\bin\Debug\net6.0\4-)Diziler.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\obj\Debug\net6.0\4-)Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\obj\Debug\net6.0\4-)Diziler.AssemblyInfoInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\obj\Debug\net6.0\4-)Diziler.AssemblyInfo.cs
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\obj\Debug\net6.0\4-)Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\obj\Debug\net6.0\4-)Diziler.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\obj\Debug\net6.0\refint\4-)Diziler.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\obj\Debug\net6.0\4-)Diziler.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\obj\Debug\net6.0\4-)Diziler.genruntimeconfig.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\4-)Diziler\obj\Debug\net6.0\ref\4-)Diziler.dll

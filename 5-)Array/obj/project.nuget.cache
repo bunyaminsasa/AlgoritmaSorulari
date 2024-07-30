@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TwvnBGhk5d0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bunyamin\\source\\repos\\AlgoritmaSorulari\\5-)Array\\05-)Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bunyamin\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bunyamin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

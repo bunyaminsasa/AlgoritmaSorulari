@@ -1,0 +1,14 @@
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\bin\Debug\net6.0\3-)Try-Catch.exe
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\bin\Debug\net6.0\3-)Try-Catch.deps.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\bin\Debug\net6.0\3-)Try-Catch.runtimeconfig.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\bin\Debug\net6.0\3-)Try-Catch.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\bin\Debug\net6.0\3-)Try-Catch.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\obj\Debug\net6.0\3-)Try-Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\obj\Debug\net6.0\3-)Try-Catch.AssemblyInfoInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\obj\Debug\net6.0\3-)Try-Catch.AssemblyInfo.cs
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\obj\Debug\net6.0\3-)Try-Catch.csproj.CoreCompileInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\obj\Debug\net6.0\3-)Try-Catch.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\obj\Debug\net6.0\refint\3-)Try-Catch.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\obj\Debug\net6.0\3-)Try-Catch.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\obj\Debug\net6.0\3-)Try-Catch.genruntimeconfig.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\3-)Try-Catch\obj\Debug\net6.0\ref\3-)Try-Catch.dll

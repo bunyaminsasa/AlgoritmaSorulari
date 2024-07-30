@@ -1,0 +1,14 @@
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\bin\Debug\net6.0\10-)Metotlar.exe
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\bin\Debug\net6.0\10-)Metotlar.deps.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\bin\Debug\net6.0\10-)Metotlar.runtimeconfig.json
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\bin\Debug\net6.0\10-)Metotlar.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\bin\Debug\net6.0\10-)Metotlar.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\obj\Debug\net6.0\10-)Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\obj\Debug\net6.0\10-)Metotlar.AssemblyInfoInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\obj\Debug\net6.0\10-)Metotlar.AssemblyInfo.cs
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\obj\Debug\net6.0\10-)Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\obj\Debug\net6.0\10-)Metotlar.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\obj\Debug\net6.0\refint\10-)Metotlar.dll
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\obj\Debug\net6.0\10-)Metotlar.pdb
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\obj\Debug\net6.0\10-)Metotlar.genruntimeconfig.cache
+C:\Users\Bunyamin\source\repos\AlgoritmaSorulari\10-)Metotlar\obj\Debug\net6.0\ref\10-)Metotlar.dll
